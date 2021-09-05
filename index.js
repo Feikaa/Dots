@@ -46,7 +46,7 @@ window.addEventListener('keyup', e => {
                 colorCheck = "";
         }
     }
-        
+
 });
 
 //Game Loop
